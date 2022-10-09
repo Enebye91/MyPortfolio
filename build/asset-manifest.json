@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05d133e2.css",
+    "main.js": "/static/js/main.5ea29969.js",
+    "static/media/Portraet.jpg": "/static/media/Portraet.2219d066b9831b834a42.jpg",
+    "static/media/Bertelsen.png": "/static/media/Bertelsen.2d5549620ab683ef3dfe.png",
+    "index.html": "/index.html",
+    "main.05d133e2.css.map": "/static/css/main.05d133e2.css.map",
+    "main.5ea29969.js.map": "/static/js/main.5ea29969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d133e2.css",
+    "static/js/main.5ea29969.js"
+  ]
+}
